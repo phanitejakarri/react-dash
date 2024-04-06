@@ -7,10 +7,9 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-![Screenshot (261)](https://github.com/phanitejakarri/react-dash/assets/67199143/408628f0-6013-40aa-9654-65bf385d7ea9)
+![Screenshot (261)](https://github.com/phanitejakarri/react-dash/assets/67199143/995cf6e2-1483-4c17-86ad-f78f66d935a1)
+![Screenshot (262)](https://github.com/phanitejakarri/react-dash/assets/67199143/2f6f0b3d-84bb-487c-9b3b-eb4ea53f5360)
 
-
-![Screenshot (262)](https://github.com/phanitejakarri/react-dash/assets/67199143/d850c008-5304-4faa-b0e2-76276f79aa6b)
 
 
 1. Clone or Download the Repository:
