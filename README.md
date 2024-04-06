@@ -35,3 +35,8 @@ Run the following command in your terminal to launch the development server:
 Enjoy Developing with Vite + React!
 
 This README provides a solid foundation for getting started with your Vite + React project. Feel free to explore the documentation for both Vite and React to delve deeper and customize your development experience."# react-dashboard" 
+
+
+
+Database Recommendation: the best database recommendation will be the AWS and MongoDB
+Deployment Strategy: I mostly use Netlify and Heroku for the deployment and for hosting I mainly use Heroku and Hostinger.
